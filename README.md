@@ -1,3 +1,4 @@
+[![MasterHead]((https://rishavchanda.io](https://miro.medium.com/v2/resize:fit:1400/0*x4rQFjfi0iK3gS1T.gif))
 <h1 align="center">Hi 👋, I'm Sandip Kharate</h1>
 <h3 align="center">A Computer Science learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
