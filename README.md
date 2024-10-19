@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandip01112004&label=Profile%20views&color=0e75b6&style=flat" alt="sandip01112004" /> </p>
 
-- 🌱 I’m currently learning **MEARN Stack web development**
+- 🌱 I’m currently learning **MERN Stack web development**
 
 - 📫 How to reach me **sandip.skharate@gmail.com**
 
