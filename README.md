@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandip01112004&show_icons=true&locale=en&layout=compact" alt="sandip01112004" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Sandip_1114?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Sandip_1114?ext=activity)
