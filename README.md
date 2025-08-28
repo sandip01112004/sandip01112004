@@ -1,21 +1,21 @@
 <!-- Hi there 👋 Welcome to my GitHub Profile -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Sandip</h1>
 <h3 align="center">💻 Passionate Developer | 🌍 Open Source Enthusiast | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=YOUR-USERNAME&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=sandip01112004&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### ✨ About Me
-- 🔭 I’m currently working on **[Your Project / Interest]**
-- 🌱 I’m currently learning **[Tech Stack or Skill]**
+- 🔭 I’m currently working on **Educational Technology**
+- 🌱 I’m currently learning **Real workd problem solving with Software**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your Strong Skills: e.g. Web Dev, AI, DevOps]**
-- 📫 Reach me at **[your.email@example.com]**
-- ⚡ Fun fact: *I love [fun/quirky hobby]*
+- 💬 Ask me about **DSA**
+- 📫 Reach me at **sandip.formal@gmail.com**
+- ⚡ Fun fact: *I love exploring new things*
 
 ---
 
@@ -28,8 +28,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandip01112004&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandip01112004&theme=radical" alt="streak" />
 </p>
 
 ---
@@ -43,16 +43,16 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR-HANDLE" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23FF5722?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sandip-kharate" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+### 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/LC_Sandip?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+</p>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=social" alt="followers" />
-</p>
+
 
 ---
