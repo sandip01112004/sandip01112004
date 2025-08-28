@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandip-kharate-015177255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip-kharate-015177255" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/LC_sandip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandip_1114" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/LC_Sandip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandip_1114" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sandipskk0ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sandipskk0ps" height="30" width="40" /></a>
 <a href="https://discord.gg/sandip1114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sandip1114" height="30" width="40" /></a>
 </p>
